@@ -1,32 +1,7 @@
-# Todo App Example
+Aplikasi Todo dibuat menggunakan React Native pada perkuliahan pemrograman android
 
-This is an example of a Complete Todo Application built using React Native.
+![alt text](https://github.com/satelittle/todoApp/blob/master/1.PNG)
+![alt text](https://github.com/satelittle/todoApp/blob/master/2.PNG)
+![alt text](https://github.com/satelittle/todoApp/blob/master/3.PNG)
 
-## Getting Started
-
-To get started you will need three things to follow this article.
-
-- Node.js
-- Expo CLI
-
-To install `expo-cli`, please run the following command.
-
-```shell
-npm install -g expo-cli`
-```
-
-To run this app you will have to install the dependencies first and then run the expo command as described below.
-
-```shell
-# to install all dependencies
-
-npm install
-
-# to run
-
-expo-cli start
-```
-
-## Built With
-
-- [React Native](http://facebook.github.io/react-native/): A cross-platform mobile app framework.
+Link Snack.io : <a href="https://snack.expo.io/@satelittle/github.com-satelittle-todoapp">LINK</a>
